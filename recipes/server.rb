@@ -1,6 +1,5 @@
 #
 # Cookbook:: myiis
-# Recipe:: default
+# Recipe:: server
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
-include_recipe "myiis::miserver"
